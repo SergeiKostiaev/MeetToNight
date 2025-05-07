@@ -1,2 +1,6 @@
-pyTelegramBotAPI
-pymongo
+pyTelegramBotAPI>=4.12.0
+pymongo>=4.3.3
+watchdog>=2.1.6
+psutil>=5.9.0
+python-dotenv>=0.21.0
+certifi>=2022.12.7  # для SSL соединений
